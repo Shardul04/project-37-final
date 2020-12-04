@@ -1,1 +1,2 @@
-# project-37-final
+# trex
+Chrome's trex game created using p5.play
